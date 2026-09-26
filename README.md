@@ -1,1 +1,1 @@
-<img style="width: 1920px; height: 1080px" src="figure/1_改变.png">
+<img style="width: 800px; height: 450px" src="figure/1_改变.png">
