@@ -13,3 +13,5 @@
 
 <img style="width: 800px; height: 450px" src="figure/小学篇/5_天才的坠机.png">
 <img style="width: 800px; height: 450px" src="figure/小学篇/ex_被忘却的旋律.png">
+
+<img style="width: 800px; height: 450px" src="figure/小学篇/6_不可以穿的舞服.png">
